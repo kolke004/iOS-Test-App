@@ -51,7 +51,7 @@ use_frameworks!
 
 # other pod statements
 
-pod 'Pendo', '~> 2.2.0'
+pod 'Pendo', '~> 2.8.0'
 
 Save the Podfile
 
