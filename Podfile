@@ -15,7 +15,7 @@ use_frameworks!
 
 # Pendo Pod for init()
 
-pod 'Pendo', '~> 2.8.0'
+pod 'Pendo', '~> 2.9.0'
 
 target 'iOSTestApp' do
   # Comment the next line if you don't want to use dynamic frameworks
