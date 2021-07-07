@@ -51,7 +51,7 @@ use_frameworks!
 
 # other pod statements
 
-pod 'Pendo', '~> 2.8.0'
+pod 'Pendo', '~> 2.9.0'
 
 Save the Podfile
 
@@ -71,7 +71,7 @@ $ open -a Xcode Podfile
 Make changes within your podfile to the Pendo pod. For example, if we wanted to deprecate to an older 2.1.1 SDK version for bug testing purposes, would simply change the version:
 
 /// Original Version ///
-pod 'Pendo', '~> 2.8.0'
+pod 'Pendo', '~> 2.9.0'
 
 /// Deprecated Version ///
 pod 'Pendo', '~> 2.1.1'
